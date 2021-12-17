@@ -7,3 +7,5 @@ Please compile the code under the standard GNU 99
 ```unix
 gcc --std=gnu99 -g -Wall -o smallsh smallsh.c
 ```
+
+Operating Systems - Final Course Grade: A
