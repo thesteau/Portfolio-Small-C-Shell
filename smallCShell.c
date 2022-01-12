@@ -1,6 +1,6 @@
 /*
 * Author: Steven Au
-* Title: smallsh
+* Title: smallCShell
 * Purpose: A small shell program that executes various features that are available in popular shells such as bash.
 */
 
