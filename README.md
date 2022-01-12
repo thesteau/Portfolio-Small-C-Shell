@@ -1,5 +1,5 @@
 # Portfolio-smallCShell
-A custom C language shell called Small Shell 
+A custom C language shell called Small C Shell 
 
 # Note: Code will fail the initial run for security purposes.
 
